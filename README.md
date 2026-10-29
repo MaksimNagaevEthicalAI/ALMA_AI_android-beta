@@ -25,4 +25,4 @@ This is an early beta version. Feedback, bug reports, and suggestions are welcom
 
 ## Developer
 
-Developed by Maksim Nagaev (www.linkedin.com/in/maksim-nagaev-9a03013a8)
+Developed by [Maksim Nagaev](https://www.linkedin.com/in/maksim-nagaev-9a03013a8/)
